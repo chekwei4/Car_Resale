@@ -36,11 +36,15 @@ RandomizedSearchCV performed with RandomForestRegressor to give best hyperparame
 **MSE:**  1.84
 
 **Distribution plot**
+
+y_test against y_pred
 <p align="center">
     <img width=300, height=250, src="./images/distplot.png">
 </p>
 
 **Scatter plot**
+
+y_test against y_pred
 <p align="center">
     <img width=300, height=250, src="./images/scatterplot.png">
 </p>
@@ -65,9 +69,7 @@ Key steps:
 
 3. wrap app in Flask API
 
-4. push to github
-
-5. deploy app onto Heroku
+4. deploy app onto Heroku, with github repo connection
 
 **Heroku App:** https://car-price-app-1.herokuapp.com/
 
