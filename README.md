@@ -1,15 +1,15 @@
 # Car Resale Price Prediction App
 
-## Intro
+## Introduction
 Dataset from Cardekho, leading car sale platform in India, contains information about used cars, with features like km_driven, fuel type, transmission type, number of previous owners and present retail price. 
 
 ## Objective 
-To predict the car resale price and to productionize the project to be used in real world
+To predict the car resale price and to productionize the project to be used in real world. 
 
 ## Code and Resources
 **Python version:** 3.7
 
-**Packages:** pandas, numpy, matplotlib, seaborn, sklearn, pickle, flask, 
+**Packages:** pandas, numpy, matplotlib, seaborn, sklearn, pickle, flask
 
 **Kaggle source:** https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 
@@ -53,7 +53,7 @@ y_test against y_pred
 Simple HTML file that allows user to input the key parameters required for model to predict. 
 
 <p align="center">
-    <img width=600, height=500, src="./images/app.png">
+    <img width=700, height=500, src="./images/app.png">
 </p>
 
 ## Deployment
