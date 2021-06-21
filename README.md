@@ -37,12 +37,12 @@ RandomizedSearchCV performed with RandomForestRegressor to give best hyperparame
 
 **Distribution plot**
 <p align="center">
-    <img width=500, height=400, src="./images/distplot.png">
+    <img width=300, height=250, src="./images/distplot.png">
 </p>
 
 **Scatter plot**
 <p align="center">
-    <img width=500, height=400, src="./images/scatterplot.png">
+    <img width=300, height=250, src="./images/scatterplot.png">
 </p>
 
 ## Front-End
@@ -54,7 +54,7 @@ Simple HTML file that allows user to input the key parameters required for model
 
 ## Deployment
 <p align="center">
-    <img width=400, height=300, src="./images/flaskheroku.png">
+    <img width=600, height=300, src="./images/flaskheroku.png">
 </p>
 
 Key steps:
